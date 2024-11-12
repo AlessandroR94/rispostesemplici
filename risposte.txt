@@ -2,7 +2,7 @@ Italiano
 Risposta alle domande poste
 
 Cos'è un algoritmo?
-L'algoritmo è un piano risolutivo che descrive, dal primo all'ultimo, i passi necessari per la risoluzione di un problema.
+L'algoritmo è un piano risolutivo che descrive, dal primo all'ultimo, i passaggi necessari per la risoluzione di un problema.
 
 Cos'è una variabile?
 La variabile è un ''contenitore'' al cui interno vengono memorizzate delle informazioni che possono essere utilizzate una o più volte all’interno del codice.
